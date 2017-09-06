@@ -12,3 +12,15 @@ Current bugs:
 Date of next update:
 
   -probably never
+  
+# Tampermonkey-Batoto-view
+Makes the images bigger in the latest updates section in the home page.
+Only works for manga in english (intentional feature)
+
+Current bugs:
+
+  -for some comics the image dissapears(rarely and for series I don't read there so ... meh)
+
+Date of next update:
+
+  -probably never
