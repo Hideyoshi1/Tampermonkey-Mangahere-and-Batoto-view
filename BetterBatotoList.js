@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        bato.to
+// @match        bato.to/*
 // @grant        none
 // ==/UserScript==
 
